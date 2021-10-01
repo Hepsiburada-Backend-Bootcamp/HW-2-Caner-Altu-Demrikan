@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3r+3PmNixYpWCrbMv8DUsCoHp7+8D9kc9Kb4XYb/qjflc7k2uLQ0Ixfk/zyUwwKmMvllL3/lgjLw1ztPLt3uYQ==",
+  "dgSpecHash": "nF/RUAosPb6oG7wCT3PBMTVHMRcvBchOIqPrv6E1RjOFVrblaWnkblREXvmGUTFnMiIQXLxmle2HTUuaPkr5dQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\caner\\Desktop\\Bootcamp\\Homework2\\Homework2\\Football.Api\\Football.Api.csproj",
   "expectedPackageFiles": [
@@ -43,6 +43,7 @@
     "C:\\Users\\caner\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\caner\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
     "C:\\Users\\caner\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\caner\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
     "C:\\Users\\caner\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\caner\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\caner\\.nuget\\packages\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",

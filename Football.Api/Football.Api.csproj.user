@@ -3,5 +3,7 @@
   <PropertyGroup>
     <Controller_SelectedScaffolderID>ApiControllerEmptyScaffolder</Controller_SelectedScaffolderID>
     <Controller_SelectedScaffolderCategoryPath>root/Common/Api</Controller_SelectedScaffolderCategoryPath>
+    <ActiveDebugProfile>Docker</ActiveDebugProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\caner\Desktop\Bootcamp\Homework2\Homework2\Football.Api\Properties\PublishProfiles\registry.hub.docker.com_demirkanc.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>
