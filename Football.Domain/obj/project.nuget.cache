@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d+9EpM0yRQCeI+6ohpI+bjH0BWceGfsOOzi5E3CJHJyW+5NppgyfTxv6hSnccaIEDbir6n58ZlQf7uOZjXkpuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\caner\\Desktop\\Bootcamp\\Homework2\\Homework2\\Football.Domain\\Football.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\caner\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

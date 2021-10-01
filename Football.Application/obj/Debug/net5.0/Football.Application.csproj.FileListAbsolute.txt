@@ -1,0 +1,17 @@
+C:\Users\caner\Desktop\Bootcamp\Homework2\Homework2\Football.Application\bin\Debug\net5.0\Football.Application.deps.json
+C:\Users\caner\Desktop\Bootcamp\Homework2\Homework2\Football.Application\bin\Debug\net5.0\Football.Application.dll
+C:\Users\caner\Desktop\Bootcamp\Homework2\Homework2\Football.Application\bin\Debug\net5.0\ref\Football.Application.dll
+C:\Users\caner\Desktop\Bootcamp\Homework2\Homework2\Football.Application\bin\Debug\net5.0\Football.Application.pdb
+C:\Users\caner\Desktop\Bootcamp\Homework2\Homework2\Football.Application\obj\Debug\net5.0\Football.Application.csproj.AssemblyReference.cache
+C:\Users\caner\Desktop\Bootcamp\Homework2\Homework2\Football.Application\obj\Debug\net5.0\Football.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caner\Desktop\Bootcamp\Homework2\Homework2\Football.Application\obj\Debug\net5.0\Football.Application.AssemblyInfoInputs.cache
+C:\Users\caner\Desktop\Bootcamp\Homework2\Homework2\Football.Application\obj\Debug\net5.0\Football.Application.AssemblyInfo.cs
+C:\Users\caner\Desktop\Bootcamp\Homework2\Homework2\Football.Application\obj\Debug\net5.0\Football.Application.csproj.CoreCompileInputs.cache
+C:\Users\caner\Desktop\Bootcamp\Homework2\Homework2\Football.Application\obj\Debug\net5.0\Football.Application.dll
+C:\Users\caner\Desktop\Bootcamp\Homework2\Homework2\Football.Application\obj\Debug\net5.0\ref\Football.Application.dll
+C:\Users\caner\Desktop\Bootcamp\Homework2\Homework2\Football.Application\obj\Debug\net5.0\Football.Application.pdb
+C:\Users\caner\Desktop\Bootcamp\Homework2\Homework2\Football.Application\bin\Debug\net5.0\Football.Domain.dll
+C:\Users\caner\Desktop\Bootcamp\Homework2\Homework2\Football.Application\bin\Debug\net5.0\Football.Infrastructure.dll
+C:\Users\caner\Desktop\Bootcamp\Homework2\Homework2\Football.Application\bin\Debug\net5.0\Football.Domain.pdb
+C:\Users\caner\Desktop\Bootcamp\Homework2\Homework2\Football.Application\bin\Debug\net5.0\Football.Infrastructure.pdb
+C:\Users\caner\Desktop\Bootcamp\Homework2\Homework2\Football.Application\obj\Debug\net5.0\Football.Application.csproj.CopyComplete
